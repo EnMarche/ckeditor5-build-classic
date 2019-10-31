@@ -77,10 +77,10 @@ ClassicEditor.defaultConfig = {
 			'bold', 'italic', 'underline', 'strikethrough', 'code', '|',
 			'bulletedList', 'numberedList', '|',
 			'alignment', '|',
+			'insertTable', '|',
+			'imageUpload', 'link', '|',
 			'indent',
 			'outdent', '|',
-			'insertTable', '|',
-			'imageUpload', 'link',
 		],
 	},
 	image: {
